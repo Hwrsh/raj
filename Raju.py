@@ -21,7 +21,7 @@ br.addheaders = [ ( 'User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.
 br.open("https://www.facebook.com/")
 br.geturl()
 
-print ("[+] TH3 R4J RULL3X [+]")
+print ("[+] TH3 R4JJ RULL3X [+]")
 print ("[+] BY R4JU R4JPUT [+]")
 msg=str(input("Enter your Token : "))
 poct=str(input("Enter your post Link : "))
